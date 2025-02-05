@@ -47,7 +47,4 @@ The custom Turtle Bot environment is defined in `robo_env.py` and includes:
 - [PyBullet](https://pybullet.org/) - Physics simulation
 - [Stable Baselines3](https://stable-baselines3.readthedocs.io/) - PPO implementation
 
----
-<div align="center">
-Made with ❤️ for Robotics and Reinforcement Learning
-</div>
+
