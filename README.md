@@ -42,7 +42,7 @@ The custom Turtle Bot environment is defined in `robo_env.py` and includes:
   - Robot falls
   - Maximum steps reached
 
-**Training Results**
+## Training Results
 
 Two demonstration videos showcase the robot's performance:
   - Robot_before_training.mp4: Shows the untrained robot's unstable behavior
